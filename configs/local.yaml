@@ -1,0 +1,19 @@
+config:
+  setting1: 1
+  setting2: 2
+  setting3:
+    a: 12
+    b: 12
+    c: 12
+    d: 12
+    e: 12
+    f: 12
+    g: 12
+    h: 12
+    i: 12
+    j: 12
+    k: 12
+    l: 12
+    o: 12
+    p: 2
+    r: 3
